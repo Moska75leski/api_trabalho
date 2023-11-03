@@ -1,0 +1,6 @@
+USER = "root"
+HOST = "localhost"
+DATABASE = "restaurante"
+PASSWORD = "12345678"
+PORT = 3000
+node_modules/
